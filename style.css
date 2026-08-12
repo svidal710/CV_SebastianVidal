@@ -37,8 +37,8 @@ body {
    ========================= */
 
 .top {
-    background: red !important;
-    color: white !important;
+    background: linear-gradient(135deg, #0f172a, #172554);
+    color: white;
     padding: 60px 0;
 }
 
